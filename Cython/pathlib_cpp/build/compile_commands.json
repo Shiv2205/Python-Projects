@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-c",
+      "-o",
+      "build/obj/pathlib_cpp.o",
+      "src/pathlib_cpp.cpp"
+    ],
+    "directory": "/mnt/c/Users/shiva/Python/Python-Projects/Cython/pathlib_cpp",
+    "file": "/mnt/c/Users/shiva/Python/Python-Projects/Cython/pathlib_cpp/src/pathlib_cpp.cpp",
+    "output": "/mnt/c/Users/shiva/Python/Python-Projects/Cython/pathlib_cpp/build/obj/pathlib_cpp.o"
+  }
+]
