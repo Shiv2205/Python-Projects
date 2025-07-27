@@ -31,6 +31,9 @@ endif
 
 all: $(BIN)
 
+dev: $(BIN)
+	./$(BIN)
+
 release: BUILD := release
 release: all
 
